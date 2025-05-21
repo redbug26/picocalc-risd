@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.xtpl": "html",
+        "*.asm": "pasmo",
+        "*.s": "pasmo",
+        "*.twig": "html",
+        "numbers": "c",
+        "ratio": "c"
+    }
+}
